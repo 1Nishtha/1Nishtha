@@ -1,4 +1,4 @@
-# Hi, I'm Nishtha Ojha 👋
+# Nishtha Ojha 👋
 
 ### Data Analyst | Data Engineer | AI & Analytics Enthusiast
 
