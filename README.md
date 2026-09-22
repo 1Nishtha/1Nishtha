@@ -1,12 +1,14 @@
 # Hi, I'm Nishtha Ojha 👋
 
-🎓 B.Tech CSE (AI) | 💻 Data & Software Enthusiast
+### Data & AI Enthusiast | Computer Science Graduate
 
-- 📊 Interested in Data Analytics, Data Engineering & AI
-- 🐍 Python | SQL | Power BI | Excel | Java
-- 🤖 Exploring AI, LLMs & Machine Learning
-- 🚀 Building projects and learning new technologies
+I'm a Computer Science graduate with an interest in **Data Analytics, Data Engineering, AI and Software Development**. I enjoy working with data, building practical solutions, and exploring new technologies.
 
-📫 Reach me: nishthaojha71@gmail.com
+💻 **Skills:** Python · SQL · Java · Power BI · Excel  
+🤖 **Interests:** Data Analytics · AI/ML · LLMs · Backend Development  
+📊 Passionate about turning data into meaningful insights and solving real-world problems.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nishtha-ojha-b95787257/)
+🌱 Currently learning, building projects, and growing my skills one step at a time.
+
+📫 **Email:** nishthaojha71@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/nishtha-ojha-b95787257](https://www.linkedin.com/in/nishtha-ojha-b95787257)
